@@ -1,5 +1,7 @@
 # Troop 48 · Lynnfield, Massachusetts
 
+[Find Troop/Pack 48 on Facebook](https://www.facebook.com/search/top?q=scouting%20%26%20cub%20scouts%20(troop%2Fpack%2048%20-%20lynnfield%2C%20ma))
+
 ## Become a Merit Badge Counselor
 
 Parent and adult volunteer toolkit for Troop 48, Lynnfield, Massachusetts, in Spirit of Adventure Council. Resources reviewed November 15, 2026; troop edition updated November 16, 2026.
