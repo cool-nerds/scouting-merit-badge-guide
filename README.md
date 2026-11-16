@@ -1,4 +1,6 @@
-# Spirit of Adventure Merit Badge Counselor Toolkit
+# Troop 48 · Lynnfield, Massachusetts
+
+Merit Badge Counselor Parent Toolkit
 
 [Open the parent website](https://cool-nerds.github.io/scouting-merit-badge-guide/) · [Open the new counselor form and directory](https://cool-nerds.github.io/scouting-merit-badge-guide/counselor/) · [Read the full GitHub handbook](counselor/HANDBOOK.md) · [Download PDF](counselor/handbook.pdf)
 
@@ -26,3 +28,7 @@ The original guide uses browser-local checklist storage. The new applicant form 
 ## Validation for this release
 
 Browser checks cover directory completeness, filtering, retired-badge exclusion from new requests, multiple badge notes, opt-in persistence, escaping, exported supplements, print output, clearing and mobile width. Verify the GitHub Pages deployment after publishing.
+
+## Troop branding and photography
+
+Troop 48 Lynnfield edition updated November 16, 2026. The numeral mark is an original text treatment, not an official troop or Scouting America insignia. Photos are from the troop’s public website; [source details](counselor/images/CREDITS.md). Official council forms and badge approval remain with Spirit of Adventure Council.

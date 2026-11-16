@@ -1,6 +1,14 @@
-# Become a Merit Badge Counselor
+# Troop 48 · Lynnfield, Massachusetts
 
-Spirit of Adventure Council — troop parent and adult volunteer toolkit. Reviewed November 15, 2026.
+## Become a Merit Badge Counselor
+
+Parent and adult volunteer toolkit for Troop 48, Lynnfield, Massachusetts, in Spirit of Adventure Council. Resources reviewed November 15, 2026; troop edition updated November 16, 2026.
+
+![Hands-on learning pictured on the public Troop 48 website](images/troop-48-hands-on-learning.jpg)
+
+![Sailing pictured on the public Troop 48 website](images/troop-48-sailing.jpg)
+
+Photos: [Lynnfield Troop 48 public website](https://sites.google.com/view/lynnfieldtroop48/home). [Photo source details](images/CREDITS.md).
 
 [Interactive form and directory](https://cool-nerds.github.io/scouting-merit-badge-guide/counselor/) · [Printable full handbook](handbook.pdf) · [Accessible HTML handbook](handbook.html)
 
