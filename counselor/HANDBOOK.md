@@ -1,4 +1,6 @@
-# Troop 48 · Lynnfield, Massachusetts
+# Scouting America · Spirit of Adventure Council
+
+## Troop 48 · Lynnfield, Massachusetts
 
 [Find Troop/Pack 48 on Facebook](https://www.facebook.com/search/top?q=scouting%20%26%20cub%20scouts%20(troop%2Fpack%2048%20-%20lynnfield%2C%20ma))
 

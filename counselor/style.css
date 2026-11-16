@@ -8,3 +8,8 @@
 
 /* Photo-free edition pending owner-selected Troop 48 Facebook photos. */
 .troop-hero{display:block;max-width:800px}.troop-story{display:block;max-width:900px}
+
+/* Professional, photo-free Scouting and council letterhead. */
+.brand-council-row{padding-bottom:18px;margin-bottom:22px;border-bottom:1px solid #607083}.council-brand strong{display:block;font-size:16px;font-weight:800;letter-spacing:.12em}.council-brand span{display:block;font-size:14px;margin-top:3px}.troop-top{margin-bottom:28px}.troop-hero{max-width:1050px}.troop-hero h1{font:600 clamp(2.5rem,5vw,4rem)/1.12 system-ui,sans-serif;letter-spacing:-.025em}.troop-number{box-shadow:none;border-radius:6px}.application-letterhead{background:#fff;border:1px solid #d8dedf;border-top:5px solid #193954;padding:24px 28px;margin:16px 0 22px}.application-letterhead .council-brand{color:#193954}.application-unit{font-weight:650;color:#374e60;margin:16px 0 6px}.application-letterhead h2{font-size:25px;margin:8px 0 0}.troop-story{max-width:none}.troop-story h2{font-size:27px}
+@media(max-width:720px){.troop-hero h1{font-size:2.5rem}.application-letterhead{padding:20px}.application-letterhead h2{font-size:23px}.council-brand strong{font-size:14px}}
+@media print{.brand-council-row{color:#193954;border-bottom:1px solid #aaa}.troop-hero h1{font-size:28pt}.application-letterhead{padding:14px}.packet-letterhead{border-bottom:2px solid #193954;padding-bottom:12px;margin-bottom:20px}.packet-letterhead .packet-scouting{font-size:14pt;font-weight:800;letter-spacing:.08em}.packet-letterhead .packet-council{font-size:11pt;margin:4px 0}.packet-letterhead h1{margin:10px 0!important}}

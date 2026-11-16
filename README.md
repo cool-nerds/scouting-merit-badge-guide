@@ -31,6 +31,6 @@ Browser checks cover directory completeness, filtering, retired-badge exclusion 
 
 ## Troop branding and photography
 
-Troop 48 Lynnfield edition updated November 16, 2026. The numeral mark is an original text treatment, not an official troop or Scouting America insignia. All previously used photographs have been removed. Future photos must be selected from the Troop/Pack 48 Facebook source provided by the owner and verified for this listing. Official council forms and badge approval remain with Spirit of Adventure Council.
+Troop 48 Lynnfield edition updated November 16, 2026. The numeral mark is an original text treatment, not an official troop or Scouting America insignia. All previously used photographs have been removed. This edition intentionally uses no photographs or image files. Scouting America, Spirit of Adventure Council and Troop 48 Lynnfield appear as text branding in the site and application exports. Official council forms and badge approval remain with Spirit of Adventure Council.
 
 [Find Troop/Pack 48 on Facebook](https://www.facebook.com/search/top?q=scouting%20%26%20cub%20scouts%20(troop%2Fpack%2048%20-%20lynnfield%2C%20ma))
