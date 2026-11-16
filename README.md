@@ -10,7 +10,7 @@ The original twelve-step guide is supplemented with a searchable national badge 
 
 1. Match their experience to badge profiles and read the official requirements.
 2. Select badges and describe qualifications, certifications, specialist partners, facilities and gaps.
-3. Download the text supplement or print their completed form to PDF.
+3. Click **Download my completed PDF** to generate a local PDF and attach it to the council application email. Print and text-copy options are also available.
 4. Complete and sign the official council MBC form and obtain the required unit or district approval.
 5. Submit through the council membership process and wait for council confirmation.
 
@@ -34,3 +34,7 @@ Browser checks cover directory completeness, filtering, retired-badge exclusion 
 Troop 48 Lynnfield edition updated November 16, 2026. The numeral mark is an original text treatment, not an official troop or Scouting America insignia. All previously used photographs have been removed. This edition intentionally uses no photographs or image files. Scouting America, Spirit of Adventure Council and Troop 48 Lynnfield appear as text branding in the site and application exports. Official council forms and badge approval remain with Spirit of Adventure Council.
 
 [Find Troop/Pack 48 on Facebook](https://www.facebook.com/search/top?q=scouting%20%26%20cub%20scouts%20(troop%2Fpack%2048%20-%20lynnfield%2C%20ma))
+
+## PDF generation
+
+The form appears first on the page. The completed PDF is generated entirely in the parent’s browser using locally served jsPDF 4.2.1 and a DejaVu Sans font. No applicant data is uploaded to generate it. See licenses in `counselor/vendor/`. The PDF is an applicant supplement, not the council’s official application or approval.

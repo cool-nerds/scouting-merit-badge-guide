@@ -12,7 +12,11 @@ Parent and adult volunteer toolkit for Troop 48, Lynnfield, Massachusetts, in Sp
 
 **This document does not certify anyone.** Council approves the counselor position and each badge, then maintains the official records. Examples below describe useful experience; they are not new requirements or a substitute for current policies.
 
-## How to apply
+## Step 1 — I would like to be a merit badge counselor
+
+[Start the form at the top of the parent toolkit](https://cool-nerds.github.io/scouting-merit-badge-guide/counselor/#application). Select your badges and describe your experience, then choose **Download my completed PDF**. The PDF is generated on your device and can be attached to your council email with the completed official form and approvals.
+
+## Follow the council process
 
 1. Review the official requirements for each badge. Describe your education, work, practical experience and ability to teach and assess the whole subject.
 2. Use your existing My.Scouting account. Keep Safeguarding Youth training current and complete counselor preparation.
@@ -30,7 +34,7 @@ The currently linked PDF retains older contact, fee and training language. Resol
 
 ## Prepare a supplement
 
-The [interactive form](https://cool-nerds.github.io/scouting-merit-badge-guide/counselor/#application) lets you select badges and record experience, certification level and dates, instructor partners, equipment and facilities, safety arrangements, gaps and availability. Download text or print the completed supplement to PDF. Attach it to official paperwork if accepted by council. There is no automatic submission, council integration or public applicant database. Do not enter SSNs, birth dates, medical records, CORI details, ID images or Scout information. Device saving is optional.
+The [interactive form](https://cool-nerds.github.io/scouting-merit-badge-guide/counselor/#application) lets you select badges and record experience, certification level and dates, instructor partners, equipment and facilities, safety arrangements, gaps and availability. Download the completed PDF directly, or use the print and text-copy options. Attach it to official paperwork if accepted by council. There is no automatic submission, council integration or public applicant database. Do not enter SSNs, birth dates, medical records, CORI details, ID images or Scout information. Device saving is optional.
 
 ## Distinguish counselor, instructor and activity supervisor
 
